@@ -1,3 +1,4 @@
+//配置@符别名提示
 {
   "compilerOptions": {
     "target": "es5",
